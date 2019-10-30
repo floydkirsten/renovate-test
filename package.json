@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^1.0.0",
-    "renovate": "^18.16.11"
+    "renovate": "^19.65.8"
   }
 }
