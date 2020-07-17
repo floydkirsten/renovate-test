@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^1.0.0",
+    "lodash": "^4.17.19",
     "renovate": "^18.16.11"
   }
 }
